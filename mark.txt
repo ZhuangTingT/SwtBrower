@@ -1,0 +1,4 @@
+百度首页
+https://www.baidu.com/
+内部网
+https://elearning.szu.edu.cn/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_1_1
